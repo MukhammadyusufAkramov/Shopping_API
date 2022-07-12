@@ -1,3 +1,4 @@
+
 let api = 'https://fakestoreapi.com/products'
 
 fetch(api).then((res)=>res.json()).then((res)=>{
